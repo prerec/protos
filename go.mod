@@ -1,4 +1,4 @@
-module github.com/prerec/auth-service/protos
+module github.com/prerec/protos
 
 go 1.22.3
 
